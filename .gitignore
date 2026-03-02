@@ -1,0 +1,97 @@
+# macOS
+# Global React Native / Node ignores — keep remote repo clean
+.DS_Store
+
+# Editor / IDE
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+
+# Node
+node_modules/
+npm-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# TypeScript
+*.tsbuildinfo
+
+# React Native / Metro
+*.jsbundle
+.metro-health-check*
+
+# iOS / Xcode
+ios/Pods/
+**/Pods/
+*.xcworkspace
+xcuserdata/
+*.xccheckout
+*.moved-aside
+DerivedData/
+*.hmap
+*.ipa
+*.xcuserstate
+**/.xcode.env.local
+
+# Android
+android/.gradle/
+android/app/build/
+**/build/
+local.properties
+*.keystore
+*.jks
+keystore.properties
+
+# Fastlane
+**/fastlane/report.xml
+**/fastlane/Preview.html
+**/fastlane/screenshots
+**/fastlane/test_output
+
+# CocoaPods / Ruby
+/vendor/bundle/
+
+# Test output
+/coverage/
+jest-report/
+
+# Yarn v2/v3
+.yarn/cache/
+.yarn/unplugged/
+.yarn/build-state.yml
+.yarn/install-state.gz
+.pnp.cjs
+
+# Environment files / secrets
+.env
+.env.*
+secret-*.json
+
+# Misc
+Thumbs.db
+
+# Expo
+.expo/
+.expo-shared/
+
+# IDE files
+.idea/
+*.iml
+
+# Metro / packager cache
+.vscode/.history
+.vscode/*workspace*
+
+# Gradle / Android caches
+.gradle/
+**/gradle-wrapper.jar
+
+# Yarn / npm cache (leave lockfiles)
+.npm/
+
+
+# Keep workspace-level ignores minimal; use this root ignore to avoid pushing
+# native build artifacts, node modules, and secrets.

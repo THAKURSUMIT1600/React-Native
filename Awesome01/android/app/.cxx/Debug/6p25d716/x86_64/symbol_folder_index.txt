@@ -1,0 +1,1 @@
+/Users/sumit/Development/Personal/Projects/React Native/Awesome01/android/app/build/intermediates/cxx/Debug/6p25d716/obj/x86_64
