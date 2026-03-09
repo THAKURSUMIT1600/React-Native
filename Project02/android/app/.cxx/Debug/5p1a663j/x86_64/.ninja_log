@@ -1,0 +1,27 @@
+# ninja log v5
+0	7	0	/Users/sumit/Development/Personal/Projects/React Native/Project02/android/app/.cxx/Debug/5p1a663j/x86_64/CMakeFiles/cmake.verify_globs	44ecddd6dd343463
+2	975	1770720677409277400	safeareacontext_autolinked_build/CMakeFiles/react_codegen_safeareacontext.dir/Users/sumit/Development/Personal/Projects/React_Native/Project02/node_modules/react-native-safe-area-context/android/build/generated/source/codegen/jni/react/renderer/components/safeareacontext/States.cpp.o	b5d57e47c598ccf4
+0	1204	1770720677633938469	safeareacontext_autolinked_build/CMakeFiles/react_codegen_safeareacontext.dir/Users/sumit/Development/Personal/Projects/React_Native/Project02/node_modules/react-native-safe-area-context/android/build/generated/source/codegen/jni/react/renderer/components/safeareacontext/EventEmitters.cpp.o	d943e008e5e0a96f
+2	1380	1770720677808147145	safeareacontext_autolinked_build/CMakeFiles/react_codegen_safeareacontext.dir/Users/sumit/Development/Personal/Projects/React_Native/Project02/node_modules/react-native-safe-area-context/android/build/generated/source/codegen/jni/safeareacontext-generated.cpp.o	8b94d69acf468c25
+0	1640	1770720678070344447	safeareacontext_autolinked_build/CMakeFiles/react_codegen_safeareacontext.dir/Users/sumit/Development/Personal/Projects/React_Native/Project02/node_modules/react-native-safe-area-context/common/cpp/react/renderer/components/safeareacontext/RNCSafeAreaViewState.cpp.o	d4fd119204d10219
+0	1686	1770720678115490235	CMakeFiles/appmodules.dir/OnLoad.cpp.o	8c5e21cf94b1fbc4
+1	1753	1770720678183453062	safeareacontext_autolinked_build/CMakeFiles/react_codegen_safeareacontext.dir/Users/sumit/Development/Personal/Projects/React_Native/Project02/node_modules/react-native-safe-area-context/android/build/generated/source/codegen/jni/react/renderer/components/safeareacontext/ShadowNodes.cpp.o	d40d6db91d064fc7
+1	1833	1770720678260106898	safeareacontext_autolinked_build/CMakeFiles/react_codegen_safeareacontext.dir/Users/sumit/Development/Personal/Projects/React_Native/Project02/node_modules/react-native-safe-area-context/android/build/generated/source/codegen/jni/react/renderer/components/safeareacontext/Props.cpp.o	40bc92e24915cd49
+0	2106	1770720678529414257	safeareacontext_autolinked_build/CMakeFiles/react_codegen_safeareacontext.dir/Users/sumit/Development/Personal/Projects/React_Native/Project02/node_modules/react-native-safe-area-context/android/build/generated/source/codegen/jni/react/renderer/components/safeareacontext/ComponentDescriptors.cpp.o	2b98df137fdc0b47
+0	2117	1770720678545641779	safeareacontext_autolinked_build/CMakeFiles/react_codegen_safeareacontext.dir/Users/sumit/Development/Personal/Projects/React_Native/Project02/node_modules/react-native-safe-area-context/common/cpp/react/renderer/components/safeareacontext/RNCSafeAreaViewShadowNode.cpp.o	8c4e655079bdca5c
+2118	2178	1770720678609763954	/Users/sumit/Development/Personal/Projects/React Native/Project02/android/app/build/intermediates/cxx/Debug/5p1a663j/obj/x86_64/libreact_codegen_safeareacontext.so	95a5592c272d7d77
+0	2313	1770720678736022894	CMakeFiles/appmodules.dir/Users/sumit/Development/Personal/Projects/React_Native/Project02/android/app/build/generated/autolinking/src/main/jni/autolinking.cpp.o	bff6c8b7e136ecbe
+2313	2350	1770720678784907293	/Users/sumit/Development/Personal/Projects/React Native/Project02/android/app/build/intermediates/cxx/Debug/5p1a663j/obj/x86_64/libappmodules.so	1605ca53877c3eb
+0	11	0	/Users/sumit/Development/Personal/Projects/React Native/Project02/android/app/.cxx/Debug/5p1a663j/x86_64/CMakeFiles/cmake.verify_globs	44ecddd6dd343463
+0	7	0	/Users/sumit/Development/Personal/Projects/React Native/Project02/android/app/.cxx/Debug/5p1a663j/x86_64/CMakeFiles/cmake.verify_globs	44ecddd6dd343463
+0	7	0	/Users/sumit/Development/Personal/Projects/React Native/Project02/android/app/.cxx/Debug/5p1a663j/x86_64/CMakeFiles/cmake.verify_globs	44ecddd6dd343463
+1	8	0	/Users/sumit/Development/Personal/Projects/React Native/Project02/android/app/.cxx/Debug/5p1a663j/x86_64/CMakeFiles/cmake.verify_globs	44ecddd6dd343463
+0	9	0	/Users/sumit/Development/Personal/Projects/React Native/Project02/android/app/.cxx/Debug/5p1a663j/x86_64/CMakeFiles/cmake.verify_globs	44ecddd6dd343463
+0	9	0	/Users/sumit/Development/Personal/Projects/React Native/Project02/android/app/.cxx/Debug/5p1a663j/x86_64/CMakeFiles/cmake.verify_globs	44ecddd6dd343463
+0	8	0	/Users/sumit/Development/Personal/Projects/React Native/Project02/android/app/.cxx/Debug/5p1a663j/x86_64/CMakeFiles/cmake.verify_globs	44ecddd6dd343463
+0	7	0	/Users/sumit/Development/Personal/Projects/React Native/Project02/android/app/.cxx/Debug/5p1a663j/x86_64/CMakeFiles/cmake.verify_globs	44ecddd6dd343463
+0	17	0	/Users/sumit/Development/Personal/Projects/React Native/Project02/android/app/.cxx/Debug/5p1a663j/x86_64/CMakeFiles/cmake.verify_globs	44ecddd6dd343463
+0	7	0	/Users/sumit/Development/Personal/Projects/React Native/Project02/android/app/.cxx/Debug/5p1a663j/x86_64/CMakeFiles/cmake.verify_globs	44ecddd6dd343463
+0	7	0	/Users/sumit/Development/Personal/Projects/React Native/Project02/android/app/.cxx/Debug/5p1a663j/x86_64/CMakeFiles/cmake.verify_globs	44ecddd6dd343463
+0	11	0	/Users/sumit/Development/Personal/Projects/React Native/Project02/android/app/.cxx/Debug/5p1a663j/x86_64/CMakeFiles/cmake.verify_globs	44ecddd6dd343463
+0	8	0	/Users/sumit/Development/Personal/Projects/React Native/Project02/android/app/.cxx/Debug/5p1a663j/x86_64/CMakeFiles/cmake.verify_globs	44ecddd6dd343463
