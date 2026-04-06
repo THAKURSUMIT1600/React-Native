@@ -1,0 +1,1 @@
+/Users/sumit/Development/Personal/Projects/React Native/Project04/android/app/build/intermediates/cxx/RelWithDebInfo/3n542j2x/obj/x86
