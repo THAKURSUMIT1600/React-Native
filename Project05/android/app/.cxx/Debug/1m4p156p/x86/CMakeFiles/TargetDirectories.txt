@@ -1,0 +1,6 @@
+/Users/sumit/Development/Personal/Projects/React Native/Project05/android/app/.cxx/Debug/1m4p156p/x86/CMakeFiles/appmodules.dir
+/Users/sumit/Development/Personal/Projects/React Native/Project05/android/app/.cxx/Debug/1m4p156p/x86/CMakeFiles/edit_cache.dir
+/Users/sumit/Development/Personal/Projects/React Native/Project05/android/app/.cxx/Debug/1m4p156p/x86/CMakeFiles/rebuild_cache.dir
+/Users/sumit/Development/Personal/Projects/React Native/Project05/android/app/.cxx/Debug/1m4p156p/x86/safeareacontext_autolinked_build/CMakeFiles/react_codegen_safeareacontext.dir
+/Users/sumit/Development/Personal/Projects/React Native/Project05/android/app/.cxx/Debug/1m4p156p/x86/safeareacontext_autolinked_build/CMakeFiles/edit_cache.dir
+/Users/sumit/Development/Personal/Projects/React Native/Project05/android/app/.cxx/Debug/1m4p156p/x86/safeareacontext_autolinked_build/CMakeFiles/rebuild_cache.dir
